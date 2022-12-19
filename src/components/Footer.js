@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="flex md:flex-row sm:flex-col justify-between items-center sm:items-start">
                     <div>
                         <h3 className="title text-3xl">
-                            Are you planning to grow your business with us?
+                            Are you planning to study abroad?
                         </h3>
                         <p className="text mt-4">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, ut!
@@ -22,7 +22,7 @@ const Footer = () => {
                 <div className="flex justify-between sm:flex-col md:flex-row">
                     <div className="item pr-5">
                         <h3 className="title mt-5 text-xl font-bold text-slate-100">
-                            Sodhkhoj Pvt. Ltd.
+                            Univa Education Consultants
                         </h3>
                         <p className="info md:w-72 sm:w-full  text-sm text-slate-400 leading-5 mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, sunt? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas aspernatur delectus consequuntur Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, voluptatem?</p>
                     </div>
@@ -36,7 +36,7 @@ const Footer = () => {
                             </li>
                             <li className='my-3'>
                                 <a href="#">
-                                    <i className="las la-envelope"></i> <span>info@sodhkhoj.com</span>
+                                    <i className="las la-envelope"></i> <span>info@uacktm.com</span>
                                 </a>
                             </li>
                             <li className='my-3'>
@@ -69,7 +69,7 @@ const Footer = () => {
                             </li>
                             <li className='my-3'>
                                 <a href="#">
-                                    <i className="las la-arrow-right mr-2"></i> <span className='hover:ml-1 transition-all hover:text-white'>Why sodhkhoj</span>
+                                    <i className="las la-arrow-right mr-2"></i> <span className='hover:ml-1 transition-all hover:text-white'>Why Univa</span>
                                 </a>
                             </li>
                             <li className='my-3'>
@@ -132,7 +132,7 @@ const Footer = () => {
             <div className='container-sm md:container sm:px-3 bg-gray-900 py-3 text-slate-400'>
                 <div className="flex justify-between sm:flex-col md:flex-row">
                   <div className="item">
-                    &copy; Sodhkhoj, {new Date().getFullYear()}, All rights reserved.
+                    &copy; Univa Educational Consultants, {new Date().getFullYear()}, All rights reserved.
                   </div>
                   <div className="item">
                     <ul className='flex gap-5 sm:flex-col md:flex-row'>

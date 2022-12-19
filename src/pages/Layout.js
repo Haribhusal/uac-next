@@ -9,7 +9,7 @@ export default function Root() {
     <div className="">
       <Header />
       <div id="detail" className="border-t-[1px]">
-        {currentPage.pathname === '/' && <Home />}
+        {/* {currentPage.pathname === '/' && <Home />} */}
         <Outlet />
       </div>
       <Footer/>
