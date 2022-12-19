@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "business_name": "Techcare Softwares and Research Center Pvt. Ltd.",
+        "business_category": "Software Company",
+        "business_website": "www.techcaresoft.com",
+        "business_address": "Shankhamul, Kathmandu, Nepal",
+        "business_cover_image": "https://picsum.photos/id/34/1000/500",
+        "business_logo": "https://picsum.photos/id/66/100/100",
+        "business_detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sapiente quos laboriosam quaerat autem."
+
+    },
+    {
+        "id": 2,
+        "business_name": "Techcare Softwares and Research Center Pvt. Ltd.",
+        "business_category": "Software Company",
+        "business_website": "www.techcaresoft.com",
+        "business_address": "Shankhamul, Kathmandu, Nepal",
+        "business_cover_image": "https://picsum.photos/id/34/1000/500",
+        "business_logo": "https://picsum.photos/id/66/100/100",
+        "business_detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sapiente quos laboriosam quaerat autem."
+
+
+    },
+    {
+        "id": 3,
+        "business_name": "Techcare Softwares and Research Center Pvt. Ltd.",
+        "business_category": "Software Company",
+        "business_website": "www.techcaresoft.com",
+        "business_address": "Shankhamul, Kathmandu, Nepal",
+        "business_cover_image": "https://picsum.photos/id/34/1000/500",
+        "business_logo": "https://picsum.photos/id/66/100/100",
+        "business_detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sapiente quos laboriosam quaerat autem."
+
+
+    },
+    {
+        "id": 4,
+        "business_name": "Techcare Softwares and Research Center Pvt. Ltd.",
+        "business_category": "Software Company",
+        "business_website": "www.techcaresoft.com",
+        "business_address": "Shankhamul, Kathmandu, Nepal",
+        "business_cover_image": "https://picsum.photos/id/34/1000/500",
+        "business_logo": "https://picsum.photos/id/66/100/100",
+        "business_detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sapiente quos laboriosam quaerat autem."
+
+
+    },
+    {
+        "id": 5,
+        "business_name": "Techcare Softwares and Research Center Pvt. Ltd.",
+        "business_category": "Software Company",
+        "business_website": "www.techcaresoft.com",
+        "business_address": "Shankhamul, Kathmandu, Nepal",
+        "business_cover_image": "https://picsum.photos/id/34/1000/500",
+        "business_logo": "https://picsum.photos/id/66/100/100",
+        "business_detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sapiente quos laboriosam quaerat autem."
+    }
+]

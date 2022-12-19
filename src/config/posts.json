@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "post_title": "Some post title here like lorem ipsum dolor sit amet",
+        "post_date": "July 22, 2022",
+        "post_author_id": 3,
+        "post_category": "Lifestyle",
+        "post_image": "https://picsum.photos/id/26/400/300",
+        "post_text": "Some text like loprem Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, "
+    },
+    {
+        "id": 2,
+        "post_title": "Some post title here like lorem ipsum dolor sit amet",
+        "post_date": "July 22, 2022",
+        "post_author_id": 3,
+        "post_category": "Lifestyle",
+        "post_image": "https://picsum.photos/id/25/400/300",
+        "post_text": "Some text like loprem Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, "
+    },
+    {
+        "id": 3,
+        "post_title": "Some post title here like lorem ipsum dolor sit amet",
+        "post_date": "July 22, 2022",
+        "post_author_id": 3,
+        "post_category": "Lifestyle",
+        "post_image": "https://picsum.photos/id/24/400/300",
+        "post_text": "Some text like loprem Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, "
+    },
+    {
+        "id": 4,
+        "post_title": "Some post title here like lorem ipsum dolor sit amet",
+        "post_date": "July 22, 2022",
+        "post_author_id": 3,
+        "post_category": "Lifestyle",
+        "post_image": "https://picsum.photos/id/23/400/300",
+        "post_text": "Some text like loprem Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, "
+    }
+]
